@@ -1,0 +1,12 @@
+Package: com.petitstb.byeannoyingcamera
+Name: ByeAnnoyingCamera
+Depends: firmware (>=11.0), mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Disable swipe left camera on Twitter app.
+Depiction: https://petitstrawberry.github.io/cydia/depictions.html?package=com.petitstb.byeannoyingcamera
+SileoDepiction: https://petitstrawberry.github.io/cydia/sileodepictions/com.petitstb.byeannoyingcamera.json
+
+Maintainer: PetitStrawberry
+Author: PetitStrawberry
+Section: Tweaks
