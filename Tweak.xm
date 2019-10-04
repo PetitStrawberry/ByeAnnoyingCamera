@@ -16,7 +16,6 @@
   else{
     return false;
   }
-  %log;
 }
 
 %end
