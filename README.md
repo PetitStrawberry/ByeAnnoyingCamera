@@ -5,6 +5,6 @@
  
  
 # Install
- You can install it from my repository (https://petitstrawberry.github.io/cydia)
+ Install from my repository (https://petitstrawberry.github.io/cydia)
 
  
